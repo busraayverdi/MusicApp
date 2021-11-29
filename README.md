@@ -1,4 +1,4 @@
-# music_app
+# MusicStore
 Music App for React-Native course on [Patika](https://app.patika.dev/)
 
 Here image of Application
